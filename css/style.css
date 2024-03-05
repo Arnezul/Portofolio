@@ -12,9 +12,13 @@ body {
     background-image: url(../Img/background.jpg);
     background-size: cover;
     background-position: center;
+    justify-content: center;
 }
 
 header{
+    position: fixed;
+    width: 100%;
+    top: 0;
     background: rgba(32, 32, 32, 0.2);
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     color: #fff;
