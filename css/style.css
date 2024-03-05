@@ -201,4 +201,8 @@ footer{
     .aside-section p{
         font-size: 14px;
     }
+
+    .main-section{
+        margin-bottom: 20px;
+    }
 }
